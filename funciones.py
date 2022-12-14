@@ -385,4 +385,5 @@ def eliminar_cliente(mydb):
 				break
 			else:
 				continuo=False
-		
+		 
+## agregar #GESTION DE PELIS/VIDEOS y demas
