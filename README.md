@@ -1,4 +1,5 @@
 TP Integrador Técnicas de Programación
+
 Balquinta A., Podesta C., Saavedra S.
 
 Trabajo práctico integrador desarrollado en Python y Mariadb en marco a la tecnicatura de Ciencia de Datos e Inteleigencia artificial.
