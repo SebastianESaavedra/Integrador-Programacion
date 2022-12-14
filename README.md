@@ -6,9 +6,9 @@ Objetivos:
 
 Gestion de Videoclub:
 - Cuenta con siguientes tablas:
-    1) clientes : con los siguientes campos: DNI, Nombre Completo, Telefono, direccion, estado.
-    2) peliculas (para el videoclub): campos: código de barra, titulo, genero, estado.
-    3) prestamo: id, DNI cliente, código de barra, estado.
+    ◘ clientes : con los siguientes campos: DNI, Nombre Completo, Telefono, direccion, estado.
+    ◘ peliculas (para el videoclub): campos: código de barra, titulo, genero, estado.
+    ◘ prestamo: id, DNI cliente, código de barra, estado.
 
 - Contar con un menú con las siguientes opciones:
    0 - Consulta de disponibilidad (de una pelicula, solo debe responder "Disponible" o "En préstamo al cliente ..Pepe..")
